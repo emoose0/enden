@@ -23,3 +23,5 @@ enden("dinput8.dll")
 enden("version.dll")
 enden("NativeTrainer.asi")
 enden("ScriptHookRDR2.dll")
+
+input("press enter to terminate program ")
